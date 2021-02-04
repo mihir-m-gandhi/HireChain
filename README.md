@@ -82,7 +82,7 @@
 * Our research paper based on this project, ["Decentralized Freelancing System - Trust and Transparency"](https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf), has been published in [International Research Journal of Engineering and Technology](https://www.irjet.net/) (IRJET) Volume 6 Issue 9.
 
 ------------------------------------------
-### Authors
+### Contributors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
